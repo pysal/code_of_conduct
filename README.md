@@ -5,6 +5,6 @@ This repository serves a shell to house the public annoucements of the [`PySAL`]
 
 The `gitter` channel should **not** be used to publicly air grievances. Should the need arise to file a complaint, please follow the steps outlined below.
 
- 1. Review the [`PySAL` Code of Conduct](http://pysal.org/placeholder_coc)
- 2. Review the [`PySAL` Code of Conduct Reporting Procedure](http://pysal.org/placeholder_coc_reporting)
+ 1. Review the [`PySAL` Code of Conduct](https://github.com/pysal/governance/blob/master/conduct/code_of_conduct.rst)
+ 2. Review the [`PySAL` Code of Conduct Reporting Procedure](https://github.com/pysal/governance/blob/master/conduct/coc_reporting.rst)
  3. Notify the Code of Conduct Committee at <pysal-conduct@googlegroups.com> 
